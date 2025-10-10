@@ -1,0 +1,66 @@
+{
+    "tweets": [
+        "Steve Jobs was adopted. His biological father was Abdulfattah Jandali, a Syrian Muslim.",
+        "@Fact k"
+    ],
+    "tokenised_texts": [
+        [
+            "steve",
+            "jobs",
+            "was",
+            "adopted",
+            ".",
+            "his",
+            "biological",
+            "father",
+            "was",
+            "abdul",
+            "##fat",
+            "##tah",
+            "jan",
+            "##dali",
+            ",",
+            "a",
+            "syrian",
+            "muslim",
+            "."
+        ],
+        [
+            "@",
+            "fact",
+            "k"
+        ]
+    ],
+    "token_ids": [
+        [
+            101,
+            13629,
+            31992,
+            10140,
+            24663,
+            119,
+            10235,
+            24284,
+            12833,
+            10140,
+            23771,
+            24413,
+            51798,
+            11842,
+            88550,
+            117,
+            143,
+            43186,
+            19918,
+            119,
+            102
+        ],
+        [
+            101,
+            137,
+            17772,
+            153,
+            102
+        ]
+    ]
+}

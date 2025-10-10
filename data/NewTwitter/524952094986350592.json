@@ -1,0 +1,71 @@
+{
+    "tweets": [
+        "Our thoughts and prayers are with the Canadian soldier shot while guarding the National War Memorial in Ottawa. #ableg  #cdnpoli"
+    ],
+    "tokenised_texts": [
+        [
+            "our",
+            "thoughts",
+            "and",
+            "prayer",
+            "##s",
+            "are",
+            "with",
+            "the",
+            "canadian",
+            "soldier",
+            "shot",
+            "while",
+            "guard",
+            "##ing",
+            "the",
+            "national",
+            "war",
+            "memorial",
+            "in",
+            "ottawa",
+            ".",
+            "#",
+            "able",
+            "##g",
+            "#",
+            "cd",
+            "##n",
+            "##poli"
+        ]
+    ],
+    "token_ids": [
+        [
+            101,
+            14008,
+            62572,
+            10110,
+            38100,
+            10107,
+            10320,
+            10171,
+            10103,
+            14291,
+            28202,
+            17797,
+            11222,
+            21211,
+            10285,
+            10103,
+            10551,
+            10313,
+            15331,
+            10104,
+            12789,
+            119,
+            108,
+            16368,
+            10251,
+            108,
+            11755,
+            10115,
+            31593,
+            102
+        ]
+    ]
+}

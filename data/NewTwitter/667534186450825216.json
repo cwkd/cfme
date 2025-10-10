@@ -1,0 +1,76 @@
+{
+    "tweets": [
+        "Steve Jobs' biological father was a Syrian immigrant.",
+        "@Fact365 @KlasraRauf So what difference does it make please explain."
+    ],
+    "tokenised_texts": [
+        [
+            "steve",
+            "jobs",
+            "'",
+            "biological",
+            "father",
+            "was",
+            "a",
+            "syrian",
+            "immigrant",
+            "."
+        ],
+        [
+            "@",
+            "fact",
+            "##36",
+            "##5",
+            "@",
+            "klas",
+            "##rar",
+            "##auf",
+            "so",
+            "what",
+            "difference",
+            "does",
+            "it",
+            "make",
+            "please",
+            "explain",
+            "."
+        ]
+    ],
+    "token_ids": [
+        [
+            101,
+            13629,
+            31992,
+            112,
+            24284,
+            12833,
+            10140,
+            143,
+            43186,
+            76394,
+            119,
+            102
+        ],
+        [
+            101,
+            137,
+            17772,
+            41718,
+            11301,
+            137,
+            69366,
+            13949,
+            86247,
+            10297,
+            11523,
+            22588,
+            14893,
+            10197,
+            12696,
+            38881,
+            58919,
+            119,
+            102
+        ]
+    ]
+}

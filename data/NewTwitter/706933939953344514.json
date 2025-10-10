@@ -1,0 +1,59 @@
+{
+    "tweets": [
+        "Bernie Sanders speaking about institutional racism 👏🏽🙌🏽 https://t.co/shNqFurwsQ"
+    ],
+    "tokenised_texts": [
+        [
+            "bernie",
+            "sanders",
+            "speaking",
+            "about",
+            "institutional",
+            "rac",
+            "##ism",
+            "[UNK]",
+            "https",
+            ":",
+            "/",
+            "/",
+            "t",
+            ".",
+            "co",
+            "/",
+            "sh",
+            "##n",
+            "##q",
+            "##fur",
+            "##ws",
+            "##q"
+        ]
+    ],
+    "token_ids": [
+        [
+            101,
+            58234,
+            38462,
+            28725,
+            10935,
+            85142,
+            86422,
+            14081,
+            100,
+            14540,
+            131,
+            120,
+            120,
+            162,
+            119,
+            10348,
+            120,
+            23015,
+            10115,
+            11561,
+            40680,
+            24484,
+            11561,
+            102
+        ]
+    ]
+}

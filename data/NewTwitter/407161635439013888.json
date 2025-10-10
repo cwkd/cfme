@@ -1,0 +1,55 @@
+{
+    "tweets": [
+        "Paul walker dies, millions cried.\n\nMillions died of human hunger, no one simply gives a fk."
+    ],
+    "tokenised_texts": [
+        [
+            "paul",
+            "walker",
+            "dies",
+            ",",
+            "millions",
+            "cried",
+            ".",
+            "millions",
+            "died",
+            "of",
+            "human",
+            "hunger",
+            ",",
+            "no",
+            "one",
+            "simply",
+            "gives",
+            "a",
+            "fk",
+            "."
+        ]
+    ],
+    "token_ids": [
+        [
+            101,
+            10878,
+            15369,
+            13015,
+            117,
+            18121,
+            94484,
+            119,
+            18121,
+            12677,
+            10108,
+            12445,
+            54825,
+            117,
+            10181,
+            10399,
+            24817,
+            24442,
+            143,
+            23151,
+            119,
+            102
+        ]
+    ]
+}
