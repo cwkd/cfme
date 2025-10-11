@@ -2054,9 +2054,9 @@ if __name__ == '__main__':
     parser.add_argument('--edge_num', type=int, default=2, metavar='edgenum',
                         help='latent relation types T in the edge inference')
 
-    parser.add_argument('--exp_method', type=str, default='lrp', metavar='exp_method',
-                        help='explanation method, option: ct-lrp/lrp-token/lrp/grad-cam/c-eb',
-                        choices=['ct-lrp', 'lrp-token', 'lrp', 'grad-cam', 'c-eb'])
+    parser.add_argument('--exp_method', type=str, default='CFME', metavar='exp_method',
+                        help='explanation method, option: CFME/GraphLIME/sglrp/ct-lrp/lrp',
+                        choices=['CFME', 'GraphLIME', 'sglrp', 'ct-lrp', 'lrp'])
 
     args = parser.parse_args()
 
@@ -2091,7 +2091,7 @@ if __name__ == '__main__':
     BUdroprate = args.BUdroprate
     # edge_dropout = 0.2  # 0.2
     # exp_method = args.exp_method
-    exp_method = 'GraphLIME'  # ['CFME','GraphLIME', 'sglrp', 'ct-lrp', 'lrp']
+    exp_method = 'GraphLIME'  # ['CFME', 'GraphLIME', 'sglrp', 'ct-lrp', 'lrp']
     if exp_method == 'GraphLIME':
         model += 'v2'
 
