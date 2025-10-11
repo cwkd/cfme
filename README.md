@@ -3,7 +3,7 @@ Code for CFME
 
 Run the training code with the following line:
 
-```python train_model_working.py --datasetname Twitter --modelname BiGCN```
+```python train_model.py --datasetname Twitter --modelname BiGCN```
 
 Train on either Twitter/PHEME/Weibo datasets.
 
