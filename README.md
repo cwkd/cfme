@@ -14,3 +14,5 @@ To perform the evaluation with the desired model and explanation method, run the
 ```python run_expl_eval_batched.py --modelname BiGCN --exp_method CFME```
 
 The script will run the evaluation on all three datasets. As with the training file, manually edit the relevant variables if argparse throws an error.
+
+The implementation of Algorithm 1 in our paper begins at line 1458.
